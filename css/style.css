@@ -37,6 +37,14 @@ body {
     border-radius: 10px;
 }
 
+a {
+    position: absolute;
+    color: #0bffeb;
+    font-size: 20px;
+    text-decoration: none;
+    left: 45%;
+}
+
 /* PRINCIPAL TEXT STYLES */
 
 .text-container {
